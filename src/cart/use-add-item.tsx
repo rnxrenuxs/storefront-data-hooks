@@ -49,6 +49,7 @@ export function extendHook(customFetcher: typeof fetcher) {
       async function addItem(item: AddItemInput) {
         const data = await fn({ item, locale, include: input?.include?.join(',') })
         await mutate(data, false)
+        console.log('data', data)
         return data
       },
       [fn, mutate]
