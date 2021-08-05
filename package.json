@@ -1,5 +1,5 @@
 {
-  "name": "@bigcommerce/storefront-data-hooks",
+  "name": "storefront-data-hooks-jorgemasta",
   "version": "1.5.3",
   "main": "index.js",
   "repository": "git@github.com:bigcommerce/storefront-data-hooks.git",
