@@ -1,3 +1,10 @@
+### [1.5.9-beta.0](https://github.com/bigcommerce/storefront-data-hooks/compare/1.5.8...1.5.9-beta.0) (2021-08-05)
+
+
+### Bug Fixes
+
+* remove log ([820fedd](https://github.com/bigcommerce/storefront-data-hooks/commit/820fedd5dd83ef59012de93304a04276ee941dc4))
+
 # 1.5.2
 ## Fix Address API imports
 Export edit and delete handlers correctly. They were swapped.
